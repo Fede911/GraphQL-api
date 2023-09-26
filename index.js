@@ -4,15 +4,15 @@ const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch
 
 let clientes = [
     {
-        "name": "Fede",
-        "lastname": "Bigatton"
+        "name": "Federico",
+        "lastname": "Gomez"
     },
     {
         "name": "Martin",
         "lastname": "Perez"
     },
     {
-        "name": "Beto",
+        "name": "Alberto",
         "lastname": "Gonzalez"
     }
 ];
