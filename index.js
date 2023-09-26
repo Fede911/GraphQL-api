@@ -12,7 +12,7 @@ let clientes = [
         "lastname": "Perez"
     },
     {
-        "name": "Alberto",
+        "name": "Beto",
         "lastname": "Gonzalez"
     }
 ];
